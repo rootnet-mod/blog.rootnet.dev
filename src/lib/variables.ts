@@ -2,15 +2,16 @@
 
 export const GLOBAL = {
   // Site metadata
-  username: "Zaggonaut",
-  rootUrl: "https://zaggonaut.dev",
-  shortDescription: "Retro-Inspired Theme &<br /> Built for Astro",
-  longDescription: "Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and Astro.",
+  username: "rootNET Team",
+  rootUrl: "https://blog.rootnet.dev",
+  shortDescription: "rootNET Blog",
+  longDescription: "Game development, tech trends, and the occasional programming mishap.",
   
   // Social media links
-  githubProfile: "https://github.com/RATIU5/zaggonaut",
-  twitterProfile: "https://twitter.com/",
-  linkedinProfile: "https://www.linkedin.com/",
+  githubProfile: "https://github.com/rootnet-mod",
+  twitterProfile: "https://twitter.com/awfixer",
+  linkedinProfile: "https://discord.gg/4V2PkqBhDm",
+  discordProfile: "https://discord.gg/4V2PkqBhDm",
   
   // Common text names used throughout the site
   articlesName: "Articles",
@@ -22,9 +23,9 @@ export const GLOBAL = {
   noProjects: "No featured projects yet.",
 
   // Blog metadata
-  blogTitle: "My Thoughts & Takes",
+  blogTitle: "rootNET Blog | Game Development, Tech Trends, and Programming Mishaps",
   blogShortDescription: "Practical wisdom, unfiltered thoughts, and hot takes.",
-  blogLongDescription: "Web development, tech trends, and the occasional programming mishap.",
+  blogLongDescription: "Game development, tech trends, and the occasional programming mishap.",
 
   // Project metadata
   projectTitle: "Projects and Code",
